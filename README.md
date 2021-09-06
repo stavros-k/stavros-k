@@ -3,7 +3,7 @@
 - ⚓ Right now I'm contributing on [TrueCharts](https://github.com/truecharts/apps/). 
 
 
-If you like my work, you can buy me acoffee ☕, so i can convert it to code
+If you like my work, you can buy me acoffee ☕, it magically turns into code 
 
 [![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=FAC92A294YPRS)
 
