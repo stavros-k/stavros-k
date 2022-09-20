@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ⚓ Right now I'm contributing on [TrueCharts](https://github.com/truecharts/apps/). 
-
+- ⚓ I’m currently working on [TrueCharts](https://github.com/truecharts/apps/). 
+- 🌱 I’m currently learning Python 
 
 If you like my work, you can buy me a coffee ☕ or a beer 🍺.
 
@@ -14,7 +14,7 @@ If you like my work, you can buy me a coffee ☕ or a beer 🍺.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
