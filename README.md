@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚓ I’m currently working on [TrueCharts](https://github.com/truecharts/apps/). 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning GoLang
 
 If you like my work, you can buy me a coffee ☕ or a beer 🍺.
 
