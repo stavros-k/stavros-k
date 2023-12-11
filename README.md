@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- ⚓ I’m currently working on [TrueCharts](https://github.com/truecharts/apps/). 
+- ⚓ Working at [TrueNAS Apps/Charts Catalog](https://github.com/truenas/charts)
+- ⚓ Maintaining [TrueCharts](https://github.com/truecharts/library-charts). 
 - 🌱 I’m currently learning GoLang
 
 If you like my work, you can buy me a coffee ☕ or a beer 🍺.
