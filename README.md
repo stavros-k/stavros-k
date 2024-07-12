@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - ⚓ Working at [TrueNAS Apps/Charts Catalog](https://github.com/truenas/charts)
-- ⚓ Maintaining [TrueCharts](https://github.com/truecharts/library-charts). 
+- ⚓ Maintaining [TrueCharts](https://github.com/truecharts/library-charts).
+  - I'm in for the tech, not for taking project decisions.
 - 🌱 I’m currently learning GoLang
 
 If you like my work, you can buy me a coffee ☕ or a beer 🍺.
